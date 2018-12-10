@@ -11,6 +11,9 @@ Task 1: Perform proper EDA, if any missing values are there try to fill them/rem
 
 Task 2: Apply KNN on the data find the best k with 3-fold cross-validation and print the error metric value on the test data with the best k.
 
+## How to Run:
+1. First download the dataset from the source then run the file: "1-KNN_ScaniaTrucks_CreatingDatasets.ipynb" and create CSV file from raw data.
+2. Then run the file: "2-KNN_ScaniaTrucks.ipynb".
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 1. Python 3
